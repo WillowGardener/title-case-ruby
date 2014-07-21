@@ -11,7 +11,6 @@ def title_case(title)
     end
   end
   new_title = title_array.join(" ")
-  return new_title
 end
 
 # title_case("dog")
